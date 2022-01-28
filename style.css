@@ -1,0 +1,12 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-size: large;
+    padding-bottom: 15px;
+}
